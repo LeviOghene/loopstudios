@@ -45,6 +45,7 @@ nav .open{
     padding: 30px 30px 200px 30px;
     color: var(--White);
     width: 100%;
+    display:none;
 }
 
 .mobile-menu nav{
