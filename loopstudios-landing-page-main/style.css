@@ -41,11 +41,10 @@ nav .open{
     position: absolute;
     transform: translate(-50%, -50%);
     left: 50%;
-    top: 50%;
-    padding: 100px 20px 200px 20px;
+    top: 54%;
+    padding: 30px 30px 200px 30px;
     color: var(--White);
     width: 100%;
-    display: none;
 }
 
 .mobile-menu nav{
